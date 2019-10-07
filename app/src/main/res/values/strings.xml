@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkbox - lesson 8</string>
+    <string name="title_text">Select fruits</string>
+    <string name="apple">Apple</string>
+    <string name="orange">Orange</string>
+    <string name="grape">Grape</string>
+    <string name="done">Done</string>
+</resources>
